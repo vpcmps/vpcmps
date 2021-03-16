@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusPCampos)](https://github.com/ViniciusPCampos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinícius-campos-35541397/)](https://www.linkedin.com/in/vinícius-campos-35541397)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/ovinnyboy)](https://twitter.com/ovinnyboy)
 <!--
 **ViniciusPCampos/ViniciusPCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
