@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Alterdata](https://www.alterdata.com.br/) as a FullStack Developer
+- 🔭 I’m currently working on [Nordware](https://nordware.io/) as a FullStack Senior Developer
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about Web Development with .NET and C#
 
