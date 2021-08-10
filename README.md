@@ -21,8 +21,7 @@
   <a href = "mailto:vpcmps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinícius-campos-35541397" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/vpcmps/vpcmps/blob/output/github-contribution-grid-snake.svg)
- 
+![Snake animation](https://github.com/vpcmps/vpcmps/blob/output/github-contribution-grid-snake.svg)
 </div>
   ##
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusPCampos)](https://github.com/ViniciusPCampos)
