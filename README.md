@@ -15,9 +15,7 @@
   <img align="center" alt="Vpcmps-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusPCampos)](https://github.com/ViniciusPCampos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinícius-campos-35541397/)](https://www.linkedin.com/in/vinícius-campos-35541397)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/ovinnyboy)](https://twitter.com/ovinnyboy)
+
 <div> 
  <a href="https://discord.gg/v5TVaM9Sm5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vpcmps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,3 +24,7 @@
   ![Snake animation](https://github.com/vpcmps/vpcmps/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  ##
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusPCampos)](https://github.com/ViniciusPCampos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinícius-campos-35541397/)](https://www.linkedin.com/in/vinícius-campos-35541397)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/ovinnyboy)](https://twitter.com/ovinnyboy)
