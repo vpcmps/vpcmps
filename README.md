@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Nordware](https://nordware.io/) as a FullStack Senior Developer
+- 🔭 I’m currently working on [Rock Content](https://rockcontent.com/) as Senior Software Engineer
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about Web Development with .NET and C#
 
