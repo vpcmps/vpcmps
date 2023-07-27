@@ -2,7 +2,9 @@
 - 🔭 I’m currently working on [Rock Content](https://rockcontent.com/) as Senior Software Engineer
 - 🌱 I’m currently learning Typescript, NestJS and React with Next
 - 💬 Ask me about Web Development with .NET and C#
+
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c275745ad481e5e58c1e0d?variant=dark)](https://roadmap.sh)
+
 <div>
   <a href="https://github.com/vpcmps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vpcmps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
